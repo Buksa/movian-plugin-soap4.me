@@ -1,0 +1,9 @@
+{
+  "type": "ecmascript",
+  "id": "soap4.me",
+  "title":"DEMO soap4.me",
+  "file": "soap4.me.js",
+  "showtimeVersion": "4.8",
+  "version": "0.1.1",
+  "category": "video" 
+}
